@@ -1,7 +1,14 @@
+body{
+	background-color: #7B68EE;
+}
 .monstruo {
 	height: 1400px;
 	width: 870px;
 	background-color: #006400;
+	position: absolute;
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
 }
 div{
 	height: 100px;
@@ -43,4 +50,13 @@ div{
 }
 .esquinaDer{
 	 margin-left: 740px;
+}
+.HijoNoQuerido {
+	background-color: red;
+	position: relative;
+	margin-left: 950px; 
+	border: 3px yellow dashed;
+	text-align: center;
+	font-family: Arial;
+	font-size: 20px;
 }
