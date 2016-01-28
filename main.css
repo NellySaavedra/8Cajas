@@ -1,3 +1,8 @@
+.monstruo {
+	height: 1400px;
+	width: 870px;
+	background-color: #006400;
+}
 div{
 	height: 100px;
 	width: 100px;
@@ -35,4 +40,7 @@ div{
 .lineaDe3{
 	display: inline-block;
 	background-color: #ADFF2F;
+}
+.esquinaDer{
+	 margin-left: 740px;
 }
