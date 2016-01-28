@@ -2,7 +2,7 @@ div{
 	height: 100px;
 	width: 100px;
 	background-color: grey;
-	border: 1px solid black;
+	border: 2px solid black;
 	margin: 5px 5px;
 	padding: 10px;
 }
@@ -10,10 +10,29 @@ div{
 .padre {
 	height: 134px;
 	width: 410px;
+	background-color: #2E8B57;
 }
 .alingPadre {
 	display: inline-block;
+	background-color: #DB7093;
 }
 .lineaDos {
 	display: inline-block;
+}
+.padre2{
+	height: 134px;
+	width: 825px;
+	background-color: #008B8B;
+}
+.alingPadre2{
+	display: inline-block;
+	background-color: #7B68EE;
+}
+.lineaDe5{
+	display: inline-block;
+	background-color: #4B0082;
+}
+.lineaDe3{
+	display: inline-block;
+	background-color: #7CFC00;
 }
